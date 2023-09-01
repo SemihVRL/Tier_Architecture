@@ -1,0 +1,11 @@
+C:\Users\semih\source\repos\KatmanliMimari_Project\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\semih\source\repos\KatmanliMimari_Project\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\semih\source\repos\KatmanliMimari_Project\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\semih\source\repos\KatmanliMimari_Project\BusinessLayer\bin\Debug\EntityLayer.dll
+C:\Users\semih\source\repos\KatmanliMimari_Project\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\semih\source\repos\KatmanliMimari_Project\BusinessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\semih\source\repos\KatmanliMimari_Project\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\semih\source\repos\KatmanliMimari_Project\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\semih\source\repos\KatmanliMimari_Project\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\semih\source\repos\KatmanliMimari_Project\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\semih\source\repos\KatmanliMimari_Project\BusinessLayer\obj\Debug\BusinessLayer.pdb

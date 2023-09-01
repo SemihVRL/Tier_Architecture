@@ -1,0 +1,6 @@
+C:\Users\semih\source\repos\KatmanliMimari_Project\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\semih\source\repos\KatmanliMimari_Project\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\semih\source\repos\KatmanliMimari_Project\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\semih\source\repos\KatmanliMimari_Project\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\semih\source\repos\KatmanliMimari_Project\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\semih\source\repos\KatmanliMimari_Project\EntityLayer\obj\Debug\EntityLayer.pdb
